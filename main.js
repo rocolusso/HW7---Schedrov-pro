@@ -22,28 +22,15 @@ const div=firstNum / secondNum;
 
 if (deystvie==='add') {
     console.log('Addition of '+(firstNum)+"+"+(secondNum)+"="+(add));
-    console.log('Subtraction of '+(firstNum)+"-"+(secondNum)+"="+(sub));
-    console.log('Multiplication of '+(firstNum)+"*"+(secondNum)+"="+(mult));
-    console.log('Division of '+(firstNum)+"/"+(secondNum)+"="+(div));
 }
 
 if (deystvie==='sub') {
     console.log('Subtraction of '+(firstNum)+"-"+(secondNum)+"="+(sub));
-    console.log('Addition of '+(firstNum)+"+"+(secondNum)+"="+(add));
-    console.log('Multiplication of '+(firstNum)+"*"+(secondNum)+"="+(mult));
-    console.log('Division of '+(firstNum)+"/"+(secondNum)+"="+(div));
 }
 
 if (deystvie==='mult') {
     console.log('Multiplication of '+(firstNum)+"*"+(secondNum)+"="+(mult));
-    console.log('Addition of '+(firstNum)+"+"+(secondNum)+"="+(add));
-    console.log('Subtraction of '+(firstNum)+"-"+(secondNum)+"="+(sub));
-    console.log('Division of '+(firstNum)+"/"+(secondNum)+"="+(div));
 }
-
 if (deystvie==='div') {
     console.log('Division of '+(firstNum)+"/"+(secondNum)+"="+(div));
-    console.log('Addition of '+(firstNum)+"+"+(secondNum)+"="+(add));
-    console.log('Subtraction of '+(firstNum)+"-"+(secondNum)+"="+(sub));
-    console.log('Multiplication of '+(firstNum)+"*"+(secondNum)+"="+(mult));
 }
